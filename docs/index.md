@@ -25,6 +25,8 @@ Welcome! This is the central help for the PARS-BIM plugin.
 ---
 
 ## Commands (Full Guides)
+
+##Common Tools
 - **View Templates**
   - [Duplicate views](commands/Duplicate-views.md)
   - [Export/import view templates](commands/Export-import-view-templates.md)
@@ -47,15 +49,14 @@ Welcome! This is the central help for the PARS-BIM plugin.
 
   - **Clash Review**
   - [Clash Review](commands/Clash-review.md)
+
+  ##Architectural Tools
 ---
 
 ## Installation & Updates
 - Install via Autodesk App Store as a `.bundle`.
 - To update, replace with the latest version.
 
-## FAQ
-**F1 doesn’t open help?** Ensure you’re online (for the web help). An offline help file can also be bundled.
 
 ## Support
-- Report bugs via GitHub Issues
 - Email: Hessam.na067@gmail.com
