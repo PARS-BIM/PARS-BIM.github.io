@@ -25,10 +25,17 @@ Welcome! This is the central help for the PARS-BIM plugin.
 ---
 
 ## Commands (Full Guides)
-- **Sheets Management** → [Sheets Management](commands/sheets-management.md)
-- **Clash Review** → [Open guide](commands/clash-review.md)
-- **Re-number Sheets** → [Open guide](commands/renumber-sheets.md)
-- **Create List from File** → [Open guide](commands/create-list-from-file.md)
+- **View Templates**
+  - [Duplicate views](commands/Duplicate-views.md)
+  - [Export/import view templates](commands/Export-import-view-templates.md)
+  
+- **Sheets**
+  - [Re-Number sheets](commands/Re-number-sheets.md)
+  - [Create list from file](commands/Create-list-from-file.md)
+  - [Sheets management](commands/sheets-management.md)
+  
+ - **Family Placement**
+
 
 ---
 
