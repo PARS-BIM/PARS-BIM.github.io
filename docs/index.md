@@ -26,7 +26,7 @@ Welcome! This is the central help for the PARS-BIM plugin.
 
 ## Commands (Full Guides)
 
-##Common Tools
+## Common Tools
 - **View Templates**
   - [Duplicate views](commands/Duplicate-views.md)
   - [Export/import view templates](commands/Export-import-view-templates.md)
@@ -50,7 +50,7 @@ Welcome! This is the central help for the PARS-BIM plugin.
   - **Clash Review**
   - [Clash Review](commands/Clash-review.md)
 
-  ##Architectural Tools
+  ## Architectural Tools
 ---
 
 ## Installation & Updates
