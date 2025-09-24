@@ -10,8 +10,14 @@ Welcome! This is the central help for the PARS-BIM plugin.
 
 ## Quick Start
 1. Open the **PARS-BIM** tab in Revit.
-2. Click **Sheets Management** to manage sheets.
-3. Use **Clash Review** to navigate and resolve clashes.
+2. **View Templates** dublicate views based on view templates or import/export view templates.
+3. **Sheets** for re-numbering sheets, create sheet list from file and to manage sheet orders, add or delete sheets.
+4. **Family Placement** this part helps you to place Revit families based on AutoCAD blocks automatically.
+5. **Smart Filter** pick elements by visibility geraphics filters or by categories. Create filter based on system types instantly.
+6. **Clash Review** it helps you to use Navisworks clash reports directly inside the Revit.
+7. **Room tools** three practical commands that helps you for room finishing, have a summary data about rooms or have a legend for ceiling heights.
+8. **Auto modelling** A very practical command to convert CAD drawings to 3D BIM models automatically (Walls, Windows and doors)
+9. 
 
 ---
 
