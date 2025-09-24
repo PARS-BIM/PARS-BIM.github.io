@@ -13,3 +13,5 @@ title: Export/Import view templates
 
 <img src="https://pars-bim.github.io/docs/Assets/Import-view-templates.jpg" alt="View Templates" width="500">
 
+
+
