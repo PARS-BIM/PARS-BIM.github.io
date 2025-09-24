@@ -39,6 +39,10 @@ Welcome! This is the central help for the PARS-BIM plugin.
   - [Ceiling based - From RVT link](commands/Ceiling-based-RVT-link.md)
   - [Ceiling based - Host based](commands/Ceiling-based-host.md)
 
+- **Smart Filter**
+  - [Re-Number sheets](commands/Re-number-sheets.md)
+  - [Create list from file](commands/Create-list-from-file.md)
+  - [Sheets management](commands/sheets-management.md)
 ---
 
 ## Installation & Updates
