@@ -18,7 +18,9 @@ Welcome! This is the central help for the PARS-BIM plugin.
 7. **Room tools** three practical commands that helps you for room finishing, have a summary data about rooms or have a legend for ceiling heights.
 8. **Auto modelling** A very practical command to convert CAD drawings to 3D BIM models automatically (Walls, Windows and doors)
 9. **Magic dimension** Automatically make dimensions for Grids, Windows and rough walls.
-10. 
+10. **Levels** Adds levels in two ways, Rule based and normal way.
+11. **Licence manager** It shows your license status.
+12. **About** Contact information and Privacy and policy.
 
 ---
 
