@@ -15,7 +15,7 @@ title: Duplicate views
 
 3. A report will be shown (Like image below.)
 
-<img src="https://pars-bim.github.io/docs/Assets/Views-created.jpg" alt="View Templates" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/Views-created.jpg" alt="View Templates" width="200">
 
 ![Select levels](https://pars-bim.github.io/docs/Assets/Views-created.jpg)
 
