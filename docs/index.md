@@ -17,12 +17,13 @@ Welcome! This is the central help for the PARS-BIM plugin.
 6. **Clash Review** it helps you to use Navisworks clash reports directly inside the Revit.
 7. **Room tools** three practical commands that helps you for room finishing, have a summary data about rooms or have a legend for ceiling heights.
 8. **Auto modelling** A very practical command to convert CAD drawings to 3D BIM models automatically (Walls, Windows and doors)
-9. 
+9. **Magic dimension** Automatically make dimensions for Grids, Windows and rough walls.
+10. 
 
 ---
 
 ## Commands (Full Guides)
-- **Sheets Management** → [Open guide](commands/sheets-management.md)
+- **Sheets Management** → [Sheets Management](commands/sheets-management.md)
 - **Clash Review** → [Open guide](commands/clash-review.md)
 - **Re-number Sheets** → [Open guide](commands/renumber-sheets.md)
 - **Create List from File** → [Open guide](commands/create-list-from-file.md)
