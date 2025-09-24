@@ -51,6 +51,11 @@ Welcome! This is the central help for the PARS-BIM plugin.
   - [Clash Review](commands/Clash-review.md)
 
   ## Architectural Tools
+
+  - **Room Tools**
+  - [Room Finishing](commands/Room-Finishing.md)
+  - [Room Area](commands/Room-area.md)
+  - [Ceiling heights](commands/Ceiling-heights.md)
 ---
 
 ## Installation & Updates
