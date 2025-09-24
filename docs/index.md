@@ -50,7 +50,7 @@ Welcome! This is the central help for the PARS-BIM plugin.
 - **Clash Review**
   - [Clash Review](commands/Clash-review.md)
 
-  ## Architectural Tools
+## Architectural Tools
 
 - **Room Tools**
   - [Room Finishing](commands/Room-Finishing.md)
@@ -60,7 +60,16 @@ Welcome! This is the central help for the PARS-BIM plugin.
 - **Auto modelling**
   - [CADtoBIM](commands/CAD-to-BIM.md)
   - [Auto join](commands/Auto-join.md)
-  
+
+- **Magic Dimension**
+  - [Grids dimension](commands/Grids-dimensions.md)
+  - [Rough walls dimensions](commands/Rough-walls-dimension.md)
+  - [Windows dimensions](commands/Windows-dimension.md)  
+
+- **Levels**
+  - [Add Level](commands/Add-level.md)
+  - [Rule based levels](commands/Rule-based-levels.md)
+   
 ---
 
 ## Installation & Updates
