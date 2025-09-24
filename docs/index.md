@@ -52,12 +52,12 @@ Welcome! This is the central help for the PARS-BIM plugin.
 
   ## Architectural Tools
 
-  - **Room Tools**
+- **Room Tools**
   - [Room Finishing](commands/Room-Finishing.md)
   - [Room Area](commands/Room-area.md)
   - [Ceiling heights](commands/Ceiling-heights.md)
 
-  - **Auto modelling**
+- **Auto modelling**
   - [CADtoBIM](commands/CAD-to-BIM.md)
   - [Auto join](commands/Auto-join.md)
   
