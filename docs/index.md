@@ -40,9 +40,13 @@ Welcome! This is the central help for the PARS-BIM plugin.
    - [Ceiling based - Host based](commands/Ceiling-based-host.md)
 
 - **Smart Filter**
-  - [Re-Number sheets](commands/Re-number-sheets.md)
-  - [Create list from file](commands/Create-list-from-file.md)
-  - [Sheets management](commands/sheets-management.md)
+  - [Pick by Filter](commands/Pick-by-filter.md)
+  - [Pick horizontal pipes](commands/Pick-horizontal-pipes.md)
+  - [Create filter by Pipe systems](commands/Create-filter-by-pipe-systems.md)
+  - [Create filter by Duct systems](commands/Create-filter-by-duct-systems.md)
+
+  - **Clash Review**
+  - [Clash Review](commands/Clash-review.md)
 ---
 
 ## Installation & Updates
