@@ -23,5 +23,10 @@ This command helps you to place Revit families on AutoCAD blocks coordinations a
 <img src="https://pars-bim.github.io/docs/Assets/save-exportblockcenters.jpg" alt="View Templates" width="500">
 
 5. Now you can import exported CSV file into the Revit. AutoCAD Block centers are exported in two ways. By geometry centers or by insertion point. Insertion point is the origin of the AutoCAD Block and it is depended on where it is defined by its creator and Geometry center is the center of the geometry. In fact center of its bounding box.
+Also, you can define CSV unit in Revit.
 
 <img src="https://pars-bim.github.io/docs/Assets/importCSV.jpg" alt="View Templates" width="500">
+
+6. In next page, select the reference DWG file which is linked to the project. It is necessary to define reference level for placement. Also, you can select the reference DWG by selecting it in the active view by clicking on "Pick in view"
+
+<img src="https://pars-bim.github.io/docs/Assets/SelectDWGlink.jpg" alt="View Templates" width="500">
