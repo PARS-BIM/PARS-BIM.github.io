@@ -22,7 +22,7 @@ This command helps you to place Revit families on AutoCAD blocks coordinations a
 
 <img src="https://pars-bim.github.io/docs/Assets/save-exportblockcenters.jpg" alt="View Templates" width="500">
 
-5. Now you can import exported CSV file into the Revit. AutoCAD Block centers are exported in two ways. By geometry centers or by insertion point. Insertion point is the origin of the AutoCAD Block and it is depended on where it is defined by its creator and Geometry center is the center of the geometry. In fact center of its bounding box.
+5.  Now you can import exported CSV file into the Revit. AutoCAD Block centers are exported in two ways. By geometry centers or by insertion point. Insertion point is the origin of the AutoCAD Block and it is depended on where it is defined by its creator and Geometry center is the center of the geometry. In fact center of its bounding box.
 Also, you can define CSV unit in Revit.
 
 <img src="https://pars-bim.github.io/docs/Assets/importCSV.jpg" alt="View Templates" width="500">
@@ -39,8 +39,9 @@ Also, you can define CSV unit in Revit.
 
 <img src="https://pars-bim.github.io/docs/Assets/Assignrevitfamily.jpg" alt="View Templates" width="500">
 
-9. Finally, in this page you can select two or more linked CAD file simultaniously and place families on different levels. Assign reference level for each linked CAD file and define the offset from level for each of them.
+9.  Finally, in this page you can select two or more linked CAD file simultaniously and place families on different levels. Assign reference level for each linked CAD file and define the offset from level for each of them.
 
 <img src="https://pars-bim.github.io/docs/Assets/familyplacementworkplane.jpg" alt="View Templates" width="500">
 
 Revit families will be placed on the coordinates of each AutoCAD block on levels that you defined.
+
