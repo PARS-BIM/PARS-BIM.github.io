@@ -21,3 +21,7 @@ This command helps you to place Revit families on AutoCAD blocks coordinations a
 4. Type "EXPORTBLOCKCENTERS" in AutoCAD command bar and press "Enter". Then save the exported block coordinates where ever you want on your computer.
 
 <img src="https://pars-bim.github.io/docs/Assets/save-exportblockcenters.jpg" alt="View Templates" width="500">
+
+5. Now you can import exported CSV file into the Revit. AutoCAD Block centers are exported in two ways. By geometry centers or by insertion point. Insertion point is the origin of the AutoCAD Block and it is depended on where it is defined by its creator and Geometry center is the center of the geometry. In fact center of its bounding box.
+
+<img src="https://pars-bim.github.io/docs/Assets/importCSV.jpg" alt="View Templates" width="500">
