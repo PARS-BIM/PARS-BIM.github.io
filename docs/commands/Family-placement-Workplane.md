@@ -30,3 +30,11 @@ Also, you can define CSV unit in Revit.
 6. In next page, select the reference DWG file which is linked to the project. It is necessary to define reference level for placement. Also, you can select the reference DWG by selecting it in the active view by clicking on "Pick in view"
 
 <img src="https://pars-bim.github.io/docs/Assets/SelectDWGlink.jpg" alt="View Templates" width="500">
+
+7. Now, what you see is the list of all AutoCAD blocks which you had in your DWG file. Select AutoCAD blocks which you need to place a Revit family in exchange of them.
+
+<img src="https://pars-bim.github.io/docs/Assets/Selectblocks.jpg" alt="View Templates" width="500">
+
+8. Next, you can assign a Revit family to each CAD Blocks that you have picked. First select the category and then select the approperiate Revit family to be placed.
+
+<img src="https://pars-bim.github.io/docs/Assets/Assignrevitfamily.jpg" alt="View Templates" width="500">
