@@ -42,3 +42,5 @@ Also, you can define CSV unit in Revit.
 9. Finally, in this page you can select two or more linked CAD file simultaniously and place families on different levels. Assign reference level for each linked CAD file and define the offset from level for each of them.
 
 <img src="https://pars-bim.github.io/docs/Assets/familyplacementworkplane.jpg" alt="View Templates" width="500">
+
+Revit families will be placed on the coordinates of each AutoCAD block on levels that you defined.
