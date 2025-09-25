@@ -7,7 +7,9 @@ This command helps you to place Revit families on AutoCAD blocks coordinations a
 
 ## Steps
 1. First, since Revit can not read AutoCAD blocks definitions, we need to export AutoCAD blocks coordinates from AutoCAD it self. To do this click on "Export lisp" and save it on your computer.
-   It doesn't matter where you save it but, the recommanded address is: C:\Program Files\Autodesk\AutoCAD [version]\Support
+   It doesn't matter where you save it.
+   the recommanded address is: C:\Program Files\Autodesk\AutoCAD [version]\Support
+   
 2. Then open the AutoCAD and your project. Type Appload in the command bar.
 
 <img src="https://pars-bim.github.io/docs/Assets/Appload.jpg" alt="Select levels" width="500">
