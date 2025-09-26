@@ -21,4 +21,4 @@ In the ribbon click on "PARS-BIM" tab and in "Architectural tools" panel click o
 
 Here is the short video that shows the process:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1hRqY-vsG4A?si=kQDtaMJxDsukBAFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="728" height="410" src="https://www.youtube.com/embed/1hRqY-vsG4A?si=kQDtaMJxDsukBAFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
