@@ -14,3 +14,5 @@ The good point is you can define multiple and complex rules in Visibility Geraph
 
 <img src="https://pars-bim.github.io/docs/Assets/Pickbycategory.jpg" alt="View Templates" width="500">
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vxrj61KyndU?si=PP93ZNRd7heOgGzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
