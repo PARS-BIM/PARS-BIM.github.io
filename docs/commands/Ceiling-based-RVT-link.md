@@ -45,3 +45,7 @@ Also, you can define CSV unit in Revit.
 
 Revit families will be placed on the coordinates of each AutoCAD block on ceiling faces that you selected.
 
+Also you can watch the process in link below:
+
+https://youtu.be/LaWu6cp9mSk
+
