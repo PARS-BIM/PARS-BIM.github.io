@@ -7,6 +7,7 @@ By using this command you can have ceilings heights as a color fill legend in "C
 
 ## Steps
 In the ribbon click on "PARS-BIM" tab and in "Architectural tools" panel click on "Ceiling heights" from "Room tools".
+
 1- Manage colors for each height or ceiling type in the list.
 
 <img src="https://pars-bim.github.io/docs/Assets/Ceilingheightcolor.jpg" alt="Select levels" width="700">
