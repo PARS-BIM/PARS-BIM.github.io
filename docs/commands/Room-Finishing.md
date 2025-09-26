@@ -8,7 +8,7 @@ With this tool, you can finish the wall and floor layers of all the rooms you se
 ## Steps
 In the ribbon click on "PARS-BIM" tab and in "Architectural tools" panel click on "Room finishing" from "Room tools".
 
-<img src="https://pars-bim.github.io/docs/Assets/Room-finishing.jpg" alt="Select levels" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/Room-finishing.jpg" alt="Select levels" width="800">
 
 1. Select the levels you want to apply finishings.
 2. Select the rooms from the list to apply finishing for them.
