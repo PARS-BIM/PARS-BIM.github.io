@@ -46,5 +46,5 @@ Also, you can define CSV unit in Revit.
 Revit families will be placed on the coordinates of each AutoCAD block on ceiling faces that you selected.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWu6cp9mSk?si=-TB3at1Btbk_ss5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<video src="https://pars-bim.github.io/docs/Assets/Family-Placement-Ceiling-based.mp4" controls playsinline muted width="700">
 
