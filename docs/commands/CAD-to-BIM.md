@@ -18,5 +18,5 @@ This command helps you to convert a AutoCAD architectural drawings into BIM mode
 
 <img src="https://pars-bim.github.io/docs/Assets/MAPCADLayers.jpg" alt="Select levels" width="500">
 
-5- Then, if you want to convert walls, click on [Walls](commands/Walls.md), and if you want to convert doors or windows, click on "Doors" or "Windows" button.
+5- Then, if you want to convert walls, click on [Walls](Walls.md), and if you want to convert doors or windows, click on "Doors" or "Windows" button.
 
