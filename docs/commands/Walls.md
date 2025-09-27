@@ -1,3 +1,11 @@
+---
+title: Convert CAD walls to Revit Walls
+---
+
+# Convert CAD walls to Revit Walls
+This command helps you to convert a AutoCAD walls into Revit walls.
+
+
 1- Click on "Walls" and define walls thickness range in the drawing. For example if you have 10 cm and 15 cm and 20 cm wall types in the drawing, your range will be from 10 cm to 20 cm.
 
 <img src="https://pars-bim.github.io/docs/Assets/Wallrange.jpg" alt="Select levels" width="500">
