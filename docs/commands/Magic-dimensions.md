@@ -20,7 +20,7 @@ In the ribbon click on "PARS-BIM" tab and in "Architectural tools" panel click o
 
 1- Select the dimension style and it will generate dimensions automatically
 
-<img src="https://pars-bim.github.io/docs/Assets/Windows-dimensions.jpg" alt="Select levels" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/Windows-dimensions.jpg" alt="Select levels" width="300">
 
 
 
