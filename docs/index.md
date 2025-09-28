@@ -62,9 +62,9 @@ Welcome! This is the central help for the PARS-BIM plugin.
   - [Auto join](commands/Auto-join.md)
 
 - **Magic Dimension**
-  - [Grids dimension](commands/Grids-dimensions.md)
-  - [Rough walls dimensions](commands/Rough-walls-dimension.md)
-  - [Windows dimensions](commands/Windows-dimension.md)  
+  - [Grids dimension](commands/Magic-dimensions.md)
+  - [Rough walls dimensions](commands/Magic-dimensions.md)
+  - [Windows dimensions](commands/Magic-dimensions.md)  
 
 - **Levels**
   - [Add Level](commands/Add-level.md)
