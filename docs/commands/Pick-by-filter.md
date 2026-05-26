@@ -16,7 +16,7 @@ The good point is you can define multiple and complex rules in Visibility Geraph
 
 --------------------------------------
 # NEW FEATURES
-# Pick horizontal pipes (V 1.1.0)
+# Pick horizontal pipes (V1.1.0)
 Now You can select horizontal pipes which follow one of the specified rules. For example you can select Sanitary and Vent horizontal pipes in the view. 
 
 <img src="https://pars-bim.github.io/docs/Assets/Pick by filter_Horizontal pipes.jpg" alt="Pick-by-filter-horizontal-pipes" width="500">
