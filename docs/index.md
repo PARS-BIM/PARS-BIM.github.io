@@ -53,6 +53,9 @@ Welcome! This is the central help for the PARS-BIM plugins.
   - [Clash Review-From Navisworks](commands/Clash-review.md)
   - [Clash Review-Inside Revit](commands/Inside-Revit.md)
 
+  - **Annotations**
+  - [Mark by sequence](commands/Mark-by-sequence.md)
+
 ## Architectural Tools
 
 - **Room Tools**
