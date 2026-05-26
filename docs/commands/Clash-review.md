@@ -1,8 +1,8 @@
 ---
-title: Clash review
+title: Clash review-From Navisworks
 ---
 
-# Clash review
+# Clash review-From Navisworks
 This command shows clash reports from Navisworks directly into the Revit. In this way there is no need to search elements that has clashes using Element ID.
 
 ## Steps
@@ -10,7 +10,7 @@ This command shows clash reports from Navisworks directly into the Revit. In thi
 
 <img src="https://pars-bim.github.io/docs/Assets/Clashreportexport.jpg" alt="Select levels" width="500">
 
-2- Selcet "Clash review" from the ribbon and then click on "Import file". Select the .xml clash report file. For the first time, it may take time to create a new 3D view named "Clash detection" which is set to get a X-Ray view.
+2- Under the "Clash review" bottun click on "From Navisworks" from the ribbon and then click on "Import file". Select the .xml clash report file. For the first time, it may take time to create a new 3D view named "Clash detection" which is set to get a X-Ray view.
 
 <img src="https://pars-bim.github.io/docs/Assets/importfile.jpg" alt="Select levels" width="500">
 
@@ -22,19 +22,15 @@ This command shows clash reports from Navisworks directly into the Revit. In thi
 
 <img src="https://pars-bim.github.io/docs/Assets/Statuses.jpg" alt="Select levels" width="500">
 
-5- It is recommanded to change the view discipline to "Mechanical" or "Electrical" for better view for MEP services.
-
-<img src="https://pars-bim.github.io/docs/Assets/Mechanicalview.jpg" alt="Select levels" width="500">
-
-6- At first you have an overall view of all clashes included in the report file. To zoom on a specific clash from list, click on "Zoom" in each row.
+5- At first you have an overall view of all clashes included in the report file. To zoom on a specific clash from list, click on "Zoom" in each row. By selecting each row, the "Clash detection" view guide you to the selected clash and it creates a zoomed section box view for better understanding the problem. If it was necessary to define or select elements, select item element ID which is shown in E1 or E2 column (It might be hidden at first, check them in Choose Columns section).
 
 <img src="https://pars-bim.github.io/docs/Assets/ClashZoom.jpg" alt="Select levels" width="500">
 
-7- Also for better management and better clash solving, you can have a section view for each clashes from the list.
+6- Also for better management and better clash solving, you can have a sectionbox view for each clashes from the list or you can use Default 3D view which make your default 3D view a sectionbox around the selected clash.
 
 <img src="https://pars-bim.github.io/docs/Assets/Clashsectionbox.jpg" alt="Select levels" width="500">
 
-8- For better understanding and have a quick review, there is "image" section which you can select on it to view the original Navisworks clash report image.
+7- For better understanding and have a quick review, there is "image" section which you can select on it to view the original Navisworks clash report image.
 
 <img src="https://pars-bim.github.io/docs/Assets/Clashimage.jpg" alt="Select levels" width="500">
 
