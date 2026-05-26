@@ -50,7 +50,7 @@ Welcome! This is the central help for the PARS-BIM plugin.
   - [Merge-saved-selections](commands/Merge-saved-selections.md)
 
 - **Clash Review**
-  - [Clash Review](commands/Clash-review.md)
+  - [Clash Review-From Navisworks](commands/Clash-review.md)
 
 ## Architectural Tools
 
