@@ -46,6 +46,7 @@ Welcome! This is the central help for the PARS-BIM plugin.
   - [Pick horizontal pipes](commands/Pick-horizontal-pipes.md)
   - [Create filter by Pipe systems](commands/Create-filter-by-pipe-systems.md)
   - [Create filter by Duct systems](commands/Create-filter-by-duct-systems.md)
+  - [ُSelect-Pipes-Ducts-By-Levels](commands/Selectpipesductsbylevel.md)
 
 - **Clash Review**
   - [Clash Review](commands/Clash-review.md)
