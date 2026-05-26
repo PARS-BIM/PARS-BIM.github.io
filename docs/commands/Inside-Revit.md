@@ -28,11 +28,11 @@ To make resolving clashes easier and handle them in a more realistic project vie
 
 You can manage the clash list and define which statuses should be visible or hidden. This can be done using the Filter Status section. Similarly, you can show or hide columns using the Choose Columns section.
 
-<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Clash-review.jpg" alt="Select levels" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Clash-review.jpg" alt="Select levels" width="800">
 
 After a clash in the project has been resolved, you can use the Refresh button to view the updated clash status. Some clashes may have been eliminated, while new ones may have appeared in the project. The clash list will be updated accordingly, allowing for better management.
 
-<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Refresh-status.jpg" alt="Select levels" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Refresh-status.jpg" alt="Select levels" width="800">
 
 
 Here is the short video to show the process: 
