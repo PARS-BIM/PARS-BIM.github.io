@@ -22,3 +22,5 @@ Now You can select horizontal pipes which follow one of the specified rules. For
 <img src="https://pars-bim.github.io/docs/Assets/Pick by filter_Horizontal pipes.jpg" alt="Pick-by-filter-horizontal-pipes" width="500">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vxrj61KyndU?si=PP93ZNRd7heOgGzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://youtu.be/6Ub2Ld99xKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
