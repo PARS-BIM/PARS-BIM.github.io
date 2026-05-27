@@ -1,12 +1,24 @@
 ---
-title: Room Area
+title: Room parameters
 ---
 
-# Room Area
-This command helps you to have Room number, name and area simultaneously in color fill legend for rooms.
+# Room Parameters
+With this command, you can create a new parameter for Rooms that is a combination of other Room parameters.
+
+As a result, you can generate a color-coded legend that displays multiple pieces of information for each room at the same time.
 
 ## Steps
-In the ribbon click on "PARS-BIM" tab and in "Architectural tools" panel click on "Room Area" from "Room tools". This will add automatically a parameter named "Room Data" to rooms which has Room number, name and area.
+In the opened window, from the “Parameter Name” section, define a name for the new parameter. Then, from the Parameters (Rooms) list, select the desired parameters from the Rooms that you want to combine.
+
+You can also specify the type of separator between the values from the “Separator” section.
+
+<img src="https://pars-bim.github.io/docs/Assets/Room-parameter-window.jpg" alt="Room parameter window" width="700">
+
+A message will be displayed confirming that the parameter has been successfully created.
+
+<img src="https://pars-bim.github.io/docs/Assets/Rooms-parameter-added.jpg" alt="Room parameter" width="700">
+
+Now, if you select any Room and check the Data section in the Properties panel, you will see that the new parameter has been created with the combined information.
 
 <img src="https://pars-bim.github.io/docs/Assets/Room-Data.jpg" alt="Select levels" width="700">
 
@@ -16,4 +28,4 @@ Now, if you want to have a color fill legend for rooms, on "Analyze" tab in "Col
 
 Here is the short video that shows the process:
 
-<iframe width="728" height="410" src="https://www.youtube.com/embed/bb8BoLt1nT0?si=KQn0fzD8P0LBfi9R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="728" height="410" src="https://www.youtube.com/embed/Jt7zhMlYQKk?si=uNsx2EgHwSBaqGv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
