@@ -55,6 +55,7 @@ Welcome! This is the central help for the PARS-BIM plugins.
 
 - **Annotations**
   - [Mark by sequence](commands/Mark-by-sequence.md)
+  - [Sync parameters](commands/Sync-parameters.md)
 
 ## Architectural Tools
 
