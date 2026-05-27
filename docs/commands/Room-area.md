@@ -12,11 +12,11 @@ In the opened window, from the “Parameter Name” section, define a name for t
 
 You can also specify the type of separator between the values from the “Separator” section.
 
-<img src="https://pars-bim.github.io/docs/Assets/Room-parameter-window.jpg" alt="Room parameter window" width="700">
+<img src="https://pars-bim.github.io/docs/Assets/Room-parameter-window.jpg" alt="Room parameter window" width="500">
 
 A message will be displayed confirming that the parameter has been successfully created.
 
-<img src="https://pars-bim.github.io/docs/Assets/Rooms-parameter-added.jpg" alt="Room parameter" width="700">
+<img src="https://pars-bim.github.io/docs/Assets/Rooms-parameter-added.jpg" alt="Room parameter" width="300">
 
 Now, if you select any Room and check the Data section in the Properties panel, you will see that the new parameter has been created with the combined information.
 
