@@ -63,7 +63,7 @@ Welcome! This is the central help for the PARS-BIM plugins.
 
 - **Room Tools**
   - [Room Finishing](commands/Room-Finishing.md)
-  - [Room Area](commands/Room-area.md)
+  - [Room parameters](commands/Room-area.md)
   - [Ceiling heights](commands/Ceiling-heights.md)
 
 - **Auto modelling**
