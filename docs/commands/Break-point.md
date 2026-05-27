@@ -8,7 +8,7 @@ Sometimes in schematic diagrams, lines cross over one another, and you may want 
 ## Steps
 For this task, you only need to first specify the cut distance in the opened window. 
 
-<img src="https://pars-bim.github.io/docs/Assets/Break-length.jpg" alt="Sync parameters" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/Break-length.jpg" alt="Sync parameters" width="300">
 
 Then select one line as the reference, and afterwards choose the lines that need to be cut.
 
