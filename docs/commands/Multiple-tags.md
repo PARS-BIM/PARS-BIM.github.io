@@ -8,11 +8,11 @@ This command helps you place multiple tags for multiple elements simultaneously 
 ## Steps
 First, select the categories for which you need to place tags from the list, and then click “OK.”
 
-<img src="https://pars-bim.github.io/docs/Assets/Multiple-tags.jpg" alt="Multiple tags" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/Multiple-tags.jpg" alt="Multiple tags" width="300">
 
 In the newly opened window, specify the vertical spacing between the tags and indicate whether you want the tags to have a leader or not.
 
-<img src="https://pars-bim.github.io/docs/Assets/tag-placement.jpg" alt="tag placement" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/tag-placement.jpg" alt="tag placement" width="300">
 
 Next, you must select the desired elements in the view. After confirming your selection, click the “Finish” button inside the software.
 
