@@ -79,7 +79,7 @@ Welcome! This is the central help for the PARS-BIM plugins.
   - [Add Level](commands/Add-level.md)
   - [Rule based levels](commands/Rule-based-levels.md)
  
-## Architectural Tools
+## MEP Tools
 
    - [Duct/Pipe to flexible](commands/Duct-pipe-to-flexible.md)
 ---
