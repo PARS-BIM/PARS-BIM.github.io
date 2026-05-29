@@ -10,7 +10,7 @@ To use this command, first go to the “Pars-BIM” tab, then in the MEP panel, 
 
 Then, in the opened window, first specify the number of pipes you want to model simultaneously.
 
-<img src="https://pars-bim.github.io/docs/Assets/Multiple-pipes-count.jpg" alt="Multiple pipes counts" width="600">
+<img src="https://pars-bim.github.io/docs/Assets/Multiple-pipes-count.jpg" alt="Multiple pipes counts" width="300">
 
 Then, in the opened window, specify the properties of each pipe individually. Note that the arrangement of pipes in the project is from top to bottom and from right to left. This means that the properties in the top row will be applied to the rightmost modeled pipe.
 
@@ -28,7 +28,7 @@ This defines the distance between pipes from their centerlines.
 Edge-to-Edge:
 This adjusts the spacing based on the outer edges of the pipes, aligning them side by side.
 
-<img src="https://pars-bim.github.io/docs/Assets/multipe-pipes-spacing.jpg" alt="Multiple pipes spacing" width="600">
+<img src="https://pars-bim.github.io/docs/Assets/multipe-pipes-spacing.jpg" alt="Multiple pipes spacing" width="300">
 
 After defining the spacing between the pipes, you must specify the modeling path using a reference line. Once you finish drawing the reference line, press the Esc key twice to fully exit the line-drawing mode, and then click the “Finish” button to apply the modeling.
 
