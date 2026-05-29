@@ -81,7 +81,7 @@ Welcome! This is the central help for the PARS-BIM plugins.
  
 ## MEP Tools
 
-   - [Duct/Pipe to flexible](commands/Duct-pipe-to-flexible.md)
+    - [Duct/Pipe to flexible](commands/Duct-pipe-to-flexible.md)
 ---
 
 ## Installation & Updates
