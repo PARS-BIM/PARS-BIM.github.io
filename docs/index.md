@@ -84,6 +84,10 @@ Welcome! This is the central help for the PARS-BIM plugins.
   - [Duct/Pipe to flexible](commands/Duct-pipe-to-flexible.md)
   - [Add to accessories](commands/Add-to-accessories.md)
   - [Change system type](commands/Change-system-type.md)
+  - **Pipes/Conduits**
+  - [Multiple pipes](commands/Multiple-pipes.md)
+  - [Multiple conduits](commands/Rule-based-levels.md)
+  - [Line to pipe](commands/Rule-based-levels.md)
 
 ---
 
