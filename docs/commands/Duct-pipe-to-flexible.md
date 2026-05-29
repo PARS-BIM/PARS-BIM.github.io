@@ -15,7 +15,7 @@ Then, in the following sections, you can specify the type of flexible element yo
 
 Finally, click the “Select Pipe or Duct” button and select the pipes or ducts in the project that you want to convert to flexible.
 
-<img src="https://pars-bim.github.io/docs/Assets/Duct-pipe-to-flex.jpg" alt="Select levels" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/Duct-pipe-to-flex.jpg" alt="Select levels" width="300">
 
 If you want to add flexible duct or flexible pipe segments to both sides of an accessory, simply follow these steps:
 
@@ -31,7 +31,7 @@ Choose this option if you want the plugin to automatically process all selected 
 All in project:
 Choose this if you want the plugin to automatically process all selected accessory types throughout the entire project. Again, select the relevant accessory types from the available columns.
 
-<img src="https://pars-bim.github.io/docs/Assets/Connected-to-accessories.jpg" alt="Select levels" width="1000">
+<img src="https://pars-bim.github.io/docs/Assets/Connected-to-accessories.jpg" alt="Select levels" width="500">
 
 
 Here is the short video to show the process: 
