@@ -83,10 +83,6 @@ Welcome! This is the central help for the PARS-BIM plugins.
 
   - [Duct/Pipe to flexible](commands/Duct-pipe-to-flexible.md)
 
-
-  - [Grids dimension](commands/Magic-dimensions.md)
-  - [Rough walls dimensions](commands/Magic-dimensions.md)
-  - [Windows dimensions](commands/Magic-dimensions.md)  
 ---
 
 ## Installation & Updates
