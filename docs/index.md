@@ -59,7 +59,7 @@ Welcome! This is the central help for the PARS-BIM plugins.
   - [Multiple tags](commands/Multiple-tags.md)
   - [Break point](commands/Break-point.md)
 
-## Architectural Tools
+## Architecture Tools
 
 - **Room Tools**
   - [Room Finishing](commands/Room-Finishing.md)
