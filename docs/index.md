@@ -88,6 +88,26 @@ Welcome! This is the central help for the PARS-BIM plugins.
     - [Multiple pipes](commands/Multiple-pipes.md)
     - [Multiple conduits](commands/Rule-based-levels.md)
     - [Line to pipe](commands/Rule-based-levels.md)
+  - **MEP Alignment**
+    - [Match Elevations](commands/Multiple-pipes.md)
+    - [Match horizontally](commands/Rule-based-levels.md)
+    - [MEP Spacing](commands/Rule-based-levels.md)
+  - **Crossing**
+    - [MVertical cross - 2 point (Cross and keep elevation)](commands/Multiple-pipes.md)
+    - [Vertical cross - 1 point (Change elevation)](commands/Rule-based-levels.md)
+    - [Vertical cross - Fixed distance (Cross and keep elevation)](commands/Rule-based-levels.md)
+    - [Vertical cross multiple elements - Fixed distance](commands/Rule-based-levels.md)
+  - **Connect MEP**
+    - [Easy connect (Single)](commands/Multiple-pipes.md)
+    - [Easy connect (Multiple)](commands/Rule-based-levels.md)
+  - **MEP Assistant**
+    - [Extend](commands/Multiple-pipes.md)
+    - [Elbow](commands/Rule-based-levels.md)
+    - [Rotate element](commands/Multiple-pipes.md)
+    - [Disconnect](commands/Multiple-pipes.md)
+    - [Branch alignment](commands/Multiple-pipes.md)
+    - [3D alignment](commands/Multiple-pipes.md)
+    - [Align and connect](commands/Multiple-pipes.md)
 
 ---
 
