@@ -22,7 +22,7 @@ As you can see, this list is organized into two tabs—one for accessories and o
 
 After choosing the desired accessory or fitting, click “Select in view.” You will be taken to the active project view, where you can select the fittings or accessories that should receive the inserted element.
 
-<img src="https://pars-bim.github.io/docs/Assets/Choose-accessories.jpg" alt="Select levels" width="300">
+<img src="https://pars-bim.github.io/docs/Assets/Choose-accessories.jpg" alt="Select levels" width="500">
 
 – All in active view:
 
