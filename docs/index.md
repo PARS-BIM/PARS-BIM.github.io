@@ -86,7 +86,7 @@ Welcome! This is the central help for the PARS-BIM plugins.
   - [Change system type](commands/Change-system-type.md)
   - **Pipes/Conduits**
     - [Multiple pipes](commands/Multiple-pipes.md)
-    - [Multiple conduits](commands/Rule-based-levels.md)
+    - [Multiple conduits](commands/Multiple-conduits.md)
     - [Line to pipe](commands/Rule-based-levels.md)
   - **MEP Alignment**
     - [Match Elevations](commands/Multiple-pipes.md)
