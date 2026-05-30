@@ -87,7 +87,7 @@ Welcome! This is the central help for the PARS-BIM plugins.
   - **Pipes/Conduits**
     - [Multiple pipes](commands/Multiple-pipes.md)
     - [Multiple conduits](commands/Multiple-conduits.md)
-    - [Line to pipe](commands/Rule-based-levels.md)
+    - [Line to pipe](commands/Line-to-pipe.md)
   - **MEP Alignment**
     - [Match Elevations](commands/Multiple-pipes.md)
     - [Match horizontally](commands/Rule-based-levels.md)
