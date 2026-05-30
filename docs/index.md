@@ -90,7 +90,7 @@ Welcome! This is the central help for the PARS-BIM plugins.
     - [Line to pipe](commands/Line-to-pipe.md)
   - **MEP Alignment**
     - [Match Elevations](commands/Match-elevation.md)
-    - [Match horizontally](commands/Rule-based-levels.md)
+    - [Match horizontally](commands/Match-horizontally.md)
     - [MEP Spacing](commands/Rule-based-levels.md)
   - **Crossing**
     - [MVertical cross - 2 point (Cross and keep elevation)](commands/Multiple-pipes.md)
