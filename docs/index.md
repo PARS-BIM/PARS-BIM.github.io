@@ -91,7 +91,7 @@ Welcome! This is the central help for the PARS-BIM plugins.
   - **MEP Alignment**
     - [Match Elevations](commands/Match-elevation.md)
     - [Match horizontally](commands/Match-horizontally.md)
-    - [MEP Spacing](commands/Rule-based-levels.md)
+    - [MEP Spacing](commands/MEP-spacing.md)
   - **Crossing**
     - [MVertical cross - 2 point (Cross and keep elevation)](commands/Multiple-pipes.md)
     - [Vertical cross - 1 point (Change elevation)](commands/Rule-based-levels.md)
