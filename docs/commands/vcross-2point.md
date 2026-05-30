@@ -14,7 +14,7 @@ Why is the “Select Face” option useful?
 
 Sometimes the obstruction comes from a linked file—for example, a structural beam linked into the MEP model. In such cases, you cannot use the “Select Element” option. Instead, by selecting a face of the linked element (such as the underside of the beam), you can define the crossing logic and control how the elements pass through each other.
 
-<img src="https://pars-bim.github.io/docs/Assets/Secondary-selection.jpg" alt="select element" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/Secondary-selection.jpg" alt="select element" width="300">
 
 In the opened window, first specify whether you want to pass over the obstruction or under it. To do this, select either “Over” for passing above or “Below” for passing underneath the obstacle.
 
