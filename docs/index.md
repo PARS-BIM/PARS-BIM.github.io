@@ -93,10 +93,10 @@ Welcome! This is the central help for the PARS-BIM plugins.
     - [Match horizontally](commands/Match-horizontally.md)
     - [MEP Spacing](commands/MEP-spacing.md)
   - **Crossing**
-    - [MVertical cross - 2 point (Cross and keep elevation)](commands/Multiple-pipes.md)
-    - [Vertical cross - 1 point (Change elevation)](commands/Rule-based-levels.md)
-    - [Vertical cross - Fixed distance (Cross and keep elevation)](commands/Rule-based-levels.md)
-    - [Vertical cross multiple elements - Fixed distance](commands/Rule-based-levels.md)
+    - [Vertical cross - 2 point (Cross and keep elevation)](commands/vcross-2point.md)
+    - [Vertical cross - 1 point (Change elevation)](commands/vcross-1point.md)
+    - [Vertical cross - Fixed distance (Cross and keep elevation)](commands/vcross-fixed-distance.md)
+    - [Vertical cross multiple elements - Fixed distance](commands/vcross-multiple.md)
   - **Connect MEP**
     - [Easy connect (Single)](commands/Multiple-pipes.md)
     - [Easy connect (Multiple)](commands/Rule-based-levels.md)
