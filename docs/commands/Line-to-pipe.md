@@ -31,7 +31,7 @@ Using the "Add Row" and "Duplicate Row" buttons, you can create additional rows 
 
 Finally, click OK to confirm your settings. The pipes will then be created and modeled according to the specified properties.
 
-<img src="https://pars-bim.github.io/docs/Assets/Line-to-pipe.jpg" alt="Line to pipe" width="700">
+<img src="https://pars-bim.github.io/docs/Assets/Line-to-pipe.jpg" alt="Line to pipe" width="1000">
 
 If you want to convert lines from an AutoCAD file linked to the model into pipes, simply click the “Select from DWG” button first. In the opened window, select the layers that you want to be temporarily enabled for selection.
 
