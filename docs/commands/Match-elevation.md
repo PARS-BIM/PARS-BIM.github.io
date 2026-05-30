@@ -8,7 +8,7 @@ This command helps you align multiple elements simultaneously. You can align ele
 ## Steps
 First, simply specify the reference point of the first selected element you want to align to (top, center, or bottom). Then do the same for the target elements. Finally, in the active view, select the reference element first, and then select the elements whose elevation you want to adjust.
 
-<img src="https://pars-bim.github.io/docs/Assets/Match-Elevation.jpg" alt="Line to pipe" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/Match-Elevation.jpg" alt="match elevation" width="500">
 
 
 
