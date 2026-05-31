@@ -1,0 +1,28 @@
+---
+title: Easy connect (Single)
+---
+
+# Easy connect (Single)
+With this command, you can connect two MEP elements much more easily, without the need to switch to 2D views or create sections. Instead, you can establish the connections directly in the 3D view, making the process faster and more convenient.
+
+
+## Steps
+
+First, select the first element, which can be considered the main run, and then select the second element, which can be considered the branch.
+
+In the opened window, specify the angle of the elbow or tee fitting that will be placed on the main run, as well as the angle of the elbow that will be placed on the branch. Then click “OK.”
+
+If you want the connecting pipe between the branch and the main run to be removed after the connection is created, enable the “Delete connecting pipe” option.
+
+Note:
+
+If the branch connects before the end of the main run, the connection will be created using one elbow on the branch and one tee fitting on the main run.
+If the branch connects beyond the end of the main run, the connection between the two elements will be created using two elbows.
+
+<img src="https://pars-bim.github.io/docs/Assets/Easy-connect.jpg" alt="Easy connect" width="300">
+
+
+
+Here is the short video to show the process: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YnaKqQHUdkk?si=jGHAuWbR6ytIRPUv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
