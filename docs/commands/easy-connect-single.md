@@ -19,7 +19,7 @@ Note:
 If the branch connects before the end of the main run, the connection will be created using one elbow on the branch and one tee fitting on the main run.
 If the branch connects beyond the end of the main run, the connection between the two elements will be created using two elbows.
 
-<img src="https://pars-bim.github.io/docs/Assets/Easy-connect.jpg" alt="Easy connect" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/Easy-connect.jpg" alt="Easy connect" width="600">
 
 
 
