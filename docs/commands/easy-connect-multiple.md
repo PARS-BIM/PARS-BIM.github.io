@@ -24,7 +24,7 @@ If a branch connects before the end of the main run, the connection will be crea
 
 If a branch connects beyond the end of the main run, the connection between the two elements will be created using two elbows.
 
-<img src="https://pars-bim.github.io/docs/Assets/Easy-connect-Multiple.jpg" alt="Easy connect multiple elements" width="600">
+<img src="https://pars-bim.github.io/docs/Assets/Easy-connect-Multiple.jpg" alt="Easy connect multiple elements" width="500">
 
 
 
