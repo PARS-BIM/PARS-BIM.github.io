@@ -6,7 +6,7 @@ title: Vertical cross - 1 point (Change elevation)
 With this command, you can easily resolve clashes between two elements without the need to create additional sections or use cutting and remodeling tools. This command changes the main route elevation to cross.
 
 ## Steps
-First, select the element where you want the break to occur and that should pass over the obstructing element. Then specify the two points that define the break locations.
+First, select the element where you want the break to occur and that should pass over the obstructing element. Then specify the the break location on it. Now you have two part, select the part that you want to change its elevation.
 
 In the opened window, you have two options. If you want to select an entire element as the obstacle, click “Select Element”. If you prefer to define the crossing logic based on a surface, choose “Select Face”.
 
