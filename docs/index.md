@@ -98,16 +98,16 @@ Welcome! This is the central help for the PARS-BIM plugins.
     - [Vertical cross - Fixed distance (Cross and keep elevation)](commands/vcross-fixed-distance.md)
     - [Vertical cross multiple elements - Fixed distance](commands/vcross-multiple.md)
   - **Connect MEP**
-    - [Easy connect (Single)](commands/Multiple-pipes.md)
-    - [Easy connect (Multiple)](commands/Rule-based-levels.md)
+    - [Easy connect (Single)](commands/easy-connect-single.md)
+    - [Easy connect (Multiple)](commands/easy-connect-multiple.md)
   - **MEP Assistant**
-    - [Extend](commands/Multiple-pipes.md)
-    - [Elbow](commands/Rule-based-levels.md)
-    - [Rotate element](commands/Multiple-pipes.md)
-    - [Disconnect](commands/Multiple-pipes.md)
-    - [Branch alignment](commands/Multiple-pipes.md)
-    - [3D alignment](commands/Multiple-pipes.md)
-    - [Align and connect](commands/Multiple-pipes.md)
+    - [Extend](commands/Extend.md)
+    - [Elbow](commands/Elbow.md)
+    - [Rotate element](commands/Rotate-element.md)
+    - [Disconnect](commands/Disconnect.md)
+    - [Branch alignment](commands/Branch-alignment.md)
+    - [3D alignment](commands/3D-alignment.md)
+    - [Align and connect](commands/Align-connect.md)
 
 ---
 
