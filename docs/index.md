@@ -16,41 +16,41 @@ Common Tools (Available in all versions):
 
 **View Templates:** Duplicate views based on predefined templates or import/export templates between projects.
 
-Sheets: Re-number sheets, generate sheet lists from Excel files, and manage your sheet set organization.
+**Sheets:** Re-number sheets, generate sheet lists from Excel files, and manage your sheet set organization.
 
-Family Placement: Automatically map and place Revit families using AutoCAD blocks as a reference.
+**Family Placement:** Automatically map and place Revit families using AutoCAD blocks as a reference.
 
-Smart Filter: Select elements based on existing V/G filters or categories. Create system-based filters instantly.
+**Smart Filter:** Select elements based on existing V/G filters or categories. Create system-based filters instantly.
 
-Clash Review: Integrate Navisworks clash reports directly into Revit or manage internal model collisions.
+**Clash Review:** Integrate Navisworks clash reports directly into Revit or manage internal model collisions.
 
-Annotations: Efficiently manage Marks, sync parameters, apply multiple tags, and clean up schematic linework with Break Point.
+**Annotations:** Efficiently manage Marks, sync parameters, apply multiple tags, and clean up schematic linework with Break Point.
 
-License Manager: View your current license status and activation details.
+**License Manager:** View your current license status and activation details.
 
-About: Access contact support, documentation, and our privacy policy.
+**About:** Access contact support, documentation, and our privacy policy.
 
 Architecture Tools (Exclusive):
 
-Room Tools: Automate room finishing, manage room parameters, and generate color-coded ceiling height legends.
+**Room Tools:** Automate room finishing, manage room parameters, and generate color-coded ceiling height legends.
 
-Auto Modeling: Use CADtoBIM to convert 2D AutoCAD drawings into 3D Revit walls, doors, and windows automatically; includes Auto Join for cleaner model geometry.
+**Auto Modeling:** Use CADtoBIM to convert 2D AutoCAD drawings into 3D Revit walls, doors, and windows automatically; includes Auto Join for cleaner model geometry.
 
-Magic Dimension: Automatically generate dimensions for grids, wall openings, and windows based on your rules.
+**Magic Dimension:** Automatically generate dimensions for grids, wall openings, and windows based on your rules.
 
-Levels: Create levels efficiently using both manual and rule-based generation methods.
+**Levels:** Create levels efficiently using both manual and rule-based generation methods.
 
 MEP Tools (Exclusive):
 
-Routing & Modeling: Generate parallel pipes/conduits, convert CAD lines to pipe systems, and convert rigid segments to flexible ducts/pipes.
+**Routing & Modeling:** Generate parallel pipes/conduits, convert CAD lines to pipe systems, and convert rigid segments to flexible ducts/pipes.
 
-Crossing Engine: Execute professional vertical routing and clash resolution using 2-point, 1-point, or fixed-distance crossing methods.
+**Crossing Engine:** Execute professional vertical routing and clash resolution using 2-point, 1-point, or fixed-distance crossing methods.
 
-MEP Alignment: Utilize Match Elevations, Match Horizontally, and 3D Alignment for precise support and rack layouts.
+**MEP Alignment:** Utilize Match Elevations, Match Horizontally, and 3D Alignment for precise support and rack layouts.
 
-Connectors: Streamline connectivity with Easy Connect (Single/Multiple), Align & Connect, and Branch Alignment tools.
+**Connectors:** Streamline connectivity with Easy Connect (Single/Multiple), Align & Connect, and Branch Alignment tools.
 
-MEP Assistant: Fix broken connections, restore undefined system types, rotate fittings, and manage MEP spacing with one-click utilities.
+**MEP Assistant:** Fix broken connections, restore undefined system types, rotate fittings, and manage MEP spacing with one-click utilities.
 ---
 
 ## Commands (Full Guides)
