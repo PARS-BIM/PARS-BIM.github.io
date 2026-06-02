@@ -14,7 +14,7 @@ Open the PARS-BIM tab in your Revit ribbon to access all tools.
 
 Common Tools (Available in all versions):
 
-View Templates: Duplicate views based on predefined templates or import/export templates between projects.
+**View Templates:** Duplicate views based on predefined templates or import/export templates between projects.
 
 Sheets: Re-number sheets, generate sheet lists from Excel files, and manage your sheet set organization.
 
