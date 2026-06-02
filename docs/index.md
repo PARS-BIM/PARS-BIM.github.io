@@ -9,19 +9,48 @@ title: Revit Plugin Help
 Welcome! This is the central help for the PARS-BIM plugins.
 
 ## Quick Start
-1. Open the **PARS-BIM** tab in Revit.
-2. **View Templates** dublicate views based on view templates or import/export view templates.
-3. **Sheets** for re-numbering sheets, create sheet list from file and to manage sheet orders, add or delete sheets.
-4. **Family Placement** this part helps you to place Revit families based on AutoCAD blocks automatically.
-5. **Smart Filter** pick elements by visibility geraphics filters or by categories. Create filter based on system types instantly.
-6. **Clash Review** it helps you to use Navisworks clash reports directly inside the Revit.
-7. **Room tools** three practical commands that helps you for room finishing, have a summary data about rooms or have a legend for ceiling heights.
-8. **Auto modelling** A very practical command to convert CAD drawings to 3D BIM models automatically (Walls, Windows and doors)
-9. **Magic dimension** Automatically make dimensions for Grids, Windows and rough walls.
-10. **Levels** Adds levels in two ways, Rule based and normal way.
-11. **Licence manager** It shows your license status.
-12. **About** Contact information and Privacy and policy.
+General Access:
+Open the PARS-BIM tab in your Revit ribbon to access all tools.
 
+Common Tools (Available in all versions):
+
+View Templates: Duplicate views based on predefined templates or import/export templates between projects.
+
+Sheets: Re-number sheets, generate sheet lists from Excel files, and manage your sheet set organization.
+
+Family Placement: Automatically map and place Revit families using AutoCAD blocks as a reference.
+
+Smart Filter: Select elements based on existing V/G filters or categories. Create system-based filters instantly.
+
+Clash Review: Integrate Navisworks clash reports directly into Revit or manage internal model collisions.
+
+Annotations: Efficiently manage Marks, sync parameters, apply multiple tags, and clean up schematic linework with Break Point.
+
+License Manager: View your current license status and activation details.
+
+About: Access contact support, documentation, and our privacy policy.
+
+Architecture Tools (Exclusive):
+
+Room Tools: Automate room finishing, manage room parameters, and generate color-coded ceiling height legends.
+
+Auto Modeling: Use CADtoBIM to convert 2D AutoCAD drawings into 3D Revit walls, doors, and windows automatically; includes Auto Join for cleaner model geometry.
+
+Magic Dimension: Automatically generate dimensions for grids, wall openings, and windows based on your rules.
+
+Levels: Create levels efficiently using both manual and rule-based generation methods.
+
+MEP Tools (Exclusive):
+
+Routing & Modeling: Generate parallel pipes/conduits, convert CAD lines to pipe systems, and convert rigid segments to flexible ducts/pipes.
+
+Crossing Engine: Execute professional vertical routing and clash resolution using 2-point, 1-point, or fixed-distance crossing methods.
+
+MEP Alignment: Utilize Match Elevations, Match Horizontally, and 3D Alignment for precise support and rack layouts.
+
+Connectors: Streamline connectivity with Easy Connect (Single/Multiple), Align & Connect, and Branch Alignment tools.
+
+MEP Assistant: Fix broken connections, restore undefined system types, rotate fittings, and manage MEP spacing with one-click utilities.
 ---
 
 ## Commands (Full Guides)
