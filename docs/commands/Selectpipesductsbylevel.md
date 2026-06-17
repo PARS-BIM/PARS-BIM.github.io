@@ -6,6 +6,8 @@ title: Select pipes/ducts by level
 This command helps you to select elements between specific level range. This can be extremely useful for managing elements on each floor—for tasks such as quantity takeoff, estimation, and more.
 ## Steps
 Simply select the categories you want to select between two levels and then specify the Base level and top level to set the range. You have the option to select pipe or ducts by system type filters.
+
+
 <img src="https://pars-bim.github.io/docs/Assets/Select-by-level-window.png" alt="Select levels" width="500">
 
 
