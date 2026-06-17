@@ -10,5 +10,6 @@ Simply select the categories you want to select between two levels and then spec
 
 <img src="https://pars-bim.github.io/docs/Assets/Select-by-level-window.png" alt="Select levels" width="500">
 
+Here is the short video to show the process: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1dNwF8FKKtY?si=sOSh7WylF44HA1vv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
