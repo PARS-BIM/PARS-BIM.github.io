@@ -34,6 +34,12 @@ After a clash in the project has been resolved, you can use the Refresh button t
 
 <img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Refresh-status.jpg" alt="Select levels" width="1000">
 
+## New features
+1- Now you can check the solved clash result instantly by clicking on "Instant check"
+2- Group clashes by selecting them and pressing right click.
+
+<img src="https://pars-bim.github.io/docs/Assets/insinde-clash-new.png" alt="clash-inside-new-feature" width="1000">
+
 
 Here is the short video to show the process: 
 
