@@ -3,47 +3,32 @@ title: MEP Elevation range
 ---
 
 # MEP Elevation range
-With this command, you can manage and resolve element clashes directly inside Revit. The difference is that this command is far more practical than Revit’s built-in tool and can even eliminate the need to use external software or purchase additional licenses—because you will have the same capabilities integrated directly within Revit.
+With this command, you can filter and color-code elements based on elevation ranges, allowing you to quickly identify their elevation levels at a glance.
 
-This also helps you save more time, since after resolving each clash, you can instantly refresh the results and see every updated clash directly inside the software.
+This feature is particularly useful when making decisions about false ceiling (suspended ceiling) heights, as it provides a clear visual representation of the elevation distribution of elements throughout the model.
 
 ## Steps
-1- Select PARS-BIM tab then in the "Common tools" panel and under the "Clash review" dropdown bottun click on "Inside Revit"
+First, select from the list the categories that you want to classify based on elevation. If your target categories are linear MEP elements such as pipes, ducts, conduits, or cable trays, you can specify which part of the element should be considered for the elevation analysis.
 
-<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Interference-check .jpg" alt="Select levels" width="500">
+Next, in Section 3, define the desired elevation ranges.
 
-In this window, you can select the categories you want to include in the clash detection process. There are two columns for reviewing and comparing elements. To find categories more quickly, you can search for the desired category at the top of the list.
+Finally, click “Update & Add Legend” and choose a suitable location in the view where the legend should be placed. The filters will be applied automatically, and the legend will be created.
 
-You can also save your selections as a template, so you can reuse them in future projects.
 
-From the top section, you can specify in which views the clashes should be checked. Again, for easier access, you can search through the available views in this section.
+<img src="https://pars-bim.github.io/docs/Assets/MEP-Elevation-Range.png" alt="elevation range" width="500">
 
-Sometimes you may want the selections in the right column to be identical to those in the left column. In that case, you can use the “Same as left side” option.
+If you want to save these filters as a template and simply add the legend to other views while following the same template settings, click “
+Add Legend Only.”
 
-2- In the newly opened window, you can view a complete report of the existing clashes in the project. By clicking on each row, you will be taken directly to the exact location of the clash. For better identification of elements, you can click on the Element IDs to clearly understand the clash between them.
+You can also update existing filters. In this case, the previous filters will be removed and replaced with the new ones. To do so, define the new elevation ranges and settings, then click “
+Update Filters.”
 
-You can also review the clashes and decide their status. Each clash can be marked as Approved or set to Reviewed.
 
-To make resolving clashes easier and handle them in a more realistic project view, you can click the “Default 3D view” button to navigate your default 3D view directly to the selected clash location.
-
-You can manage the clash list and define which statuses should be visible or hidden. This can be done using the Filter Status section. Similarly, you can show or hide columns using the Choose Columns section.
-
-<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Clash-review.jpg" alt="Select levels" width="1000">
-
-After a clash in the project has been resolved, you can use the Refresh button to view the updated clash status. Some clashes may have been eliminated, while new ones may have appeared in the project. The clash list will be updated accordingly, allowing for better management.
-
-<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Refresh-status.jpg" alt="Select levels" width="1000">
-
-## New features
-1- Now you can check the solved clash result instantly by clicking on "Instant check"
-
-2- Group clashes by selecting them and pressing right click.
-
-<img src="https://pars-bim.github.io/docs/Assets/insinde-clash-new.png" alt="clash-inside-new-feature" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/MEP-Elevation-Range-legend.png" alt="elevation range legend" width="1000">
 
 
 Here is the short video to show the process: 
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nAR7MHNGgbk?si=ah1G9mmY92OWIGqj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kxd6RW-MV2U?si=EVwfYnUmjWG8LAHS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
