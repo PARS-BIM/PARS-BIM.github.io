@@ -77,6 +77,8 @@ MEP Tools (Exclusive):
   - [Create filter by Duct systems](commands/Create-filter-by-duct-systems.md)
   - [Select-Pipes-Ducts-By-Levels](commands/Selectpipesductsbylevel.md)
   - [Merge-saved-selections](commands/Merge-saved-selections.md)
+  - [MEP elevation range](commands/MEP-level-range.md)
+  - [Previous selections](commands/Previous-selections.md)
 
 - **Clash Review**
   - [Clash Review-From Navisworks](commands/Clash-review.md)
