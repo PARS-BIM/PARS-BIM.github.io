@@ -42,9 +42,3 @@ In this window, you can manage your clash reports. You can review the clashes fr
 Once the clashes have been resolved, click **“Refresh”** to update the status of the reports. Any reports whose issues have been resolved will automatically be marked as **“Resolved.”**
 
 Finally, you can click **“Delete Resolved”** to remove resolved reports and keep your report list clean and organized.
-
-Here is the short video to show the process: 
-
-
-
-<iframe width="560" height="315" src="https://youtube.com/shorts/gwelJoZxFz0?si=9onCFI4rzGMeqvF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
