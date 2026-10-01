@@ -108,8 +108,7 @@ MEP Tools (Exclusive):
   - [Wall dimensions](commands/Wall-dimensions.md)
 
 - **Levels**
-  - [Add Level](commands/Add-level.md)
-  - [Rule based levels](commands/Rule-based-levels.md)
+    - [Rule based levels](commands/Rule-based-levels.md)
 - **Custom tile pattern**
   - [Add Level](commands/custom-tile.md)
  
