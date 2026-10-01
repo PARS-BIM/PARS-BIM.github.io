@@ -6,7 +6,7 @@ title: Wall dimensions
 With this feature, you can create wall dimensions **much faster and more easily**, saving time and streamlining your modeling workflow.
 
 ## Steps
-1- Select PARS-BIM tab then in the "Architecture" panel and under the "Clash review" dropdown bottun click on "Wall dimensions"
+1- Select PARS-BIM tab then in the "Architecture" panel and under the "Magic dimension" dropdown bottun click on "Wall dimensions"
 
 <img src="https://pars-bim.github.io/docs/Assets/Wall-dimensions-setting.png" alt="Wall-dimensions-setting" width="500">
 
@@ -42,23 +42,22 @@ This section allows you to define the **wall thickness range** that the plugin s
 
 You can also specify **which face of the finish wall** should be used as the dimension reference. This setting is used by the **“Interior Walls”** button.
 
+Now, let’s explain what each of the buttons at the bottom does:
 
-<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Clash-review.jpg" alt="Select levels" width="1000">
+* **Just Openings:** When you click this button and then select a wall, the plugin will place only the dimensions related to the **openings** in that wall.
 
-After a clash in the project has been resolved, you can use the Refresh button to view the updated clash status. Some clashes may have been eliminated, while new ones may have appeared in the project. The clash list will be updated accordingly, allowing for better management.
+* **Interior Walls:** By selecting a room, this option creates the room’s dimensions based on the **face of its finish layer**.
 
-<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Refresh-status.jpg" alt="Select levels" width="1000">
+* **Chain Walls:** Sometimes, several intersecting but continuous and aligned walls are present. This feature allows you to create a **single dimension representing the combined length of those walls**.
 
-## New features
-1- Now you can check the solved clash result instantly by clicking on "Instant check"
+* **Wall Dimensions Individually:** With this button, you can place dimensions only for the **walls you select**.
 
-2- Group clashes by selecting them and pressing right click.
+* **OK:** Based on the settings you have configured, this button creates wall dimensions for **all rooms or only the selected rooms**, depending on the option chosen in **Setting 2**.
 
-<img src="https://pars-bim.github.io/docs/Assets/insinde-clash-new.png" alt="clash-inside-new-feature" width="500">
 
 
 Here is the short video to show the process: 
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nAR7MHNGgbk?si=ah1G9mmY92OWIGqj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qKOYtZqjufc?si=dKCVFOYE0WjCm246" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
