@@ -84,6 +84,7 @@ MEP Tools (Exclusive):
   - [Clash Review-From Navisworks](commands/Clash-review.md)
   - [Clash Review-Inside Revit](commands/Inside-Revit.md)
   - [Show Error report items](commands/Error-report.md)
+  - [Clash Review-Live Check](commands/Live-Check.md)
 
 - **Annotations**
   - [Mark by sequence](commands/Mark-by-sequence.md)
