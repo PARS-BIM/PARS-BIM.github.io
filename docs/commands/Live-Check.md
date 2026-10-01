@@ -37,13 +37,11 @@ Alternatively, you can dismiss the warning for now and review it later at a more
 
 <img src="https://pars-bim.github.io/docs/Assets/Report-logs.png" alt="Report-logs" width="500">
 
-## New features
-1- Now you can check the solved clash result instantly by clicking on "Instant check"
+In this window, you can manage your clash reports. You can review the clashes from each report individually, or select multiple reports to combine them into a single report.
 
-2- Group clashes by selecting them and pressing right click.
+Once the clashes have been resolved, click **“Refresh”** to update the status of the reports. Any reports whose issues have been resolved will automatically be marked as **“Resolved.”**
 
-<img src="https://pars-bim.github.io/docs/Assets/insinde-clash-new.png" alt="clash-inside-new-feature" width="500">
-
+Finally, you can click **“Delete Resolved”** to remove resolved reports and keep your report list clean and organized.
 
 Here is the short video to show the process: 
 
