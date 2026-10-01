@@ -114,6 +114,7 @@ MEP Tools (Exclusive):
  
 ## MEP Tools
 
+  - [Splitter](commands/Splitter.md)
   - [Duct/Pipe to flexible](commands/Duct-pipe-to-flexible.md)
   - [Add to accessories](commands/Add-to-accessories.md)
   - [Change system type](commands/Change-system-type.md)
