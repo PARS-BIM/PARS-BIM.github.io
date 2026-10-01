@@ -30,9 +30,12 @@ From this moment on, whenever a new clash occurs during modeling, you will immed
 
 <img src="https://pars-bim.github.io/docs/Assets/Live-Check-Notification.png" alt="Live-Check-Notification" width="300">
 
-After a clash in the project has been resolved, you can use the Refresh button to view the updated clash status. Some clashes may have been eliminated, while new ones may have appeared in the project. The clash list will be updated accordingly, allowing for better management.
+By clicking **“Show Report,”** you can review the newly detected clashes immediately.
 
-<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Refresh-status.jpg" alt="Select levels" width="1000">
+Alternatively, you can dismiss the warning for now and review it later at a more convenient time. Simply open the **Live Check** window and navigate to **“Show Report Logs”** to view and review the complete list of clash reports.
+
+
+<img src="https://pars-bim.github.io/docs/Assets/Report-logs.png" alt="Report-logs" width="500">
 
 ## New features
 1- Now you can check the solved clash result instantly by clicking on "Instant check"
