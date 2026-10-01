@@ -1,4 +1,4 @@
-<img width="809" height="980" alt="image" src="https://github.com/user-attachments/assets/0612fd33-5098-4aa9-a570-81e660371e7b" />---
+---
 title: Wall dimensions
 ---
 
