@@ -12,7 +12,7 @@ This also helps you save more time, since after resolving each clash, you can in
 
 <img src="https://pars-bim.github.io/docs/Assets/Inside-Revit select-categories.png" alt="Select levels" width="500">
 
-In this window, you can select the categories you want to include in the clash detection process. There are two columns for reviewing and comparing elements. To find categories more quickly, you can search for the desired category at the top of the list.
+In this window, you can select the categories you want to include in the clash detection process. You can also select from rules that you already set in filters section inside the Visibility Graphics or even select elements by their System types. There are two columns for reviewing and comparing elements. To find categories more quickly, you can search for the desired category at the top of the list.
 
 You can also save your selections as a template, so you can reuse them in future projects.
 
@@ -27,6 +27,8 @@ You can also review the clashes and decide their status. Each clash can be marke
 To make resolving clashes easier and handle them in a more realistic project view, you can click the “Default 3D view” button to navigate your default 3D view directly to the selected clash location.
 
 You can manage the clash list and define which statuses should be visible or hidden. This can be done using the Filter Status section. Similarly, you can show or hide columns using the Choose Columns section.
+
+Moreover, in each column you can specify to select from host and linked models. Which means you can check the clashes between MEP vs MEP/Str in same time.
 
 <img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Clash-review.jpg" alt="Select levels" width="1000">
 
