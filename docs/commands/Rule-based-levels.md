@@ -16,8 +16,10 @@ In the ribbon click on "PARS-BIM" tab and in "Architectural tools" panel click o
 
 <img src="https://pars-bim.github.io/docs/Assets/Noanddis.jpg" alt="Select levels" width="400">
 
-3- Review added levels and change the name o height for each if it is necessary.
+3- Specify first level to add rule based levels and its height
 
 <img src="https://pars-bim.github.io/docs/Assets/Firstlvl.jpg" alt="Select levels" width="400">
+
+3- Review added levels and change the name o height for each if it is necessary.
 
 Levels will be created.
