@@ -105,8 +105,7 @@ MEP Tools (Exclusive):
 
 - **Magic Dimension**
   - [Grids dimension](commands/Magic-dimensions.md)
-  - [Rough walls dimensions](commands/Magic-dimensions.md)
-  - [Windows dimensions](commands/Magic-dimensions.md)  
+  - [Wall dimensions](commands/Wall-dimensions.md)
 
 - **Levels**
   - [Add Level](commands/Add-level.md)
