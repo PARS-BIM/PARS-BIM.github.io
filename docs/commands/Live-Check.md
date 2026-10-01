@@ -23,15 +23,12 @@ Sometimes you may want the selections in the right column to be identical to tho
 
 Moreover, in each column you can specify to select from host and linked models. Which means you can check the clashes between MEP vs MEP/Str in same time.
 
-2- In the newly opened window, you can view a complete report of the existing clashes in the project. By clicking on each row, you will be taken directly to the exact location of the clash. For better identification of elements, you can click on the Element IDs to clearly understand the clash between them.
+2- Click the red **“Live Check”** button to activate this feature in the background.
 
-You can also review the clashes and decide their status. Each clash can be marked as Approved or set to Reviewed.
+From this moment on, whenever a new clash occurs during modeling, you will immediately receive a **red warning notification** in the bottom-left corner of the screen. The notification will also indicate **how many clashes were created by your most recent change**, allowing you to identify and resolve issues instantly.
+ 
 
-To make resolving clashes easier and handle them in a more realistic project view, you can click the “Default 3D view” button to navigate your default 3D view directly to the selected clash location.
-
-You can manage the clash list and define which statuses should be visible or hidden. This can be done using the Filter Status section. Similarly, you can show or hide columns using the Choose Columns section.
-
-<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Clash-review.jpg" alt="Select levels" width="1000">
+<img src="https://pars-bim.github.io/docs/Assets/Live-Check-Notification.png" alt="Live-Check-Notification" width="300">
 
 After a clash in the project has been resolved, you can use the Refresh button to view the updated clash status. Some clashes may have been eliminated, while new ones may have appeared in the project. The clash list will be updated accordingly, allowing for better management.
 
