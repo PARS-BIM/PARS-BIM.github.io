@@ -10,7 +10,7 @@ This also helps you save more time, since after resolving each clash, you can in
 ## Steps
 1- Select PARS-BIM tab then in the "Common tools" panel and under the "Clash review" dropdown bottun click on "Inside Revit"
 
-<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit_Interference-check .jpg" alt="Select levels" width="500">
+<img src="https://pars-bim.github.io/docs/Assets/Inside-Revit select-categories.png" alt="Select levels" width="500">
 
 In this window, you can select the categories you want to include in the clash detection process. There are two columns for reviewing and comparing elements. To find categories more quickly, you can search for the desired category at the top of the list.
 
