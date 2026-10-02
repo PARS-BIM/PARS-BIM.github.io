@@ -4,7 +4,7 @@ title: Revit Plugin Help
 
 # Revit Plugin — Help
 
-> Version: 1.1.0 · Last updated: 2026-05-26
+> Version: 1.5.0 · Last updated: 2026-10-02
 
 Welcome! This is the central help for the PARS-BIM plugins.
 
