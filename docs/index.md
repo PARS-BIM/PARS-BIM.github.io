@@ -110,7 +110,7 @@ MEP Tools (Exclusive):
 - **Levels**
     - [Rule based levels](commands/Rule-based-levels.md)
 - **Custom tile pattern**
-  - [Add Level](commands/custom-tile.md)
+  - [Custom tile pattern](commands/custom-tile.md)
  
 ## MEP Tools
 
