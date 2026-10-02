@@ -141,7 +141,7 @@ MEP Tools (Exclusive):
     - [Rotate Multi elements](commands/MultiRotate.md)
     - [Disconnect](commands/Disconnect.md)
     - [Branch alignment](commands/Branch-alignment.md)
-    - [Branch alignment multiple](commands/Branch-alignment-multi.md)
+    - [Branch alignment (multiple)](commands/Branch-alignment-multi.md)
     - [3D alignment](commands/3D-alignment.md)
     - [Align and connect](commands/Align-connect.md)
 
