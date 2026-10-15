@@ -19,3 +19,13 @@ After setting the search scope and selecting the required language dictionaries,
 Once the scan is complete, a list of potential errors will be displayed. This list shows the error type, the location where the issue was found, and the flagged word itself. In the Suggestion/Fix column, it also recommends a likely correction.
 
 You can accept the suggested word or manually type your own correction, then click Apply to save the changes.
+
+<img src="https://pars-bim.github.io/docs/Assets/Custom-Dic.png" alt="Custom-Dic" width="300">
+
+You can apply corrections row by row, or enter fixes across multiple rows and click Apply All to update everything at once.
+
+Occasionally, a valid term—such as an approved abbreviation or acronym—may be flagged as a misspelling. In these cases, you can use the Add to Dictionary option to add it to your custom user dictionary so it won’t be flagged in future scans.
+
+
+
+
