@@ -26,6 +26,7 @@ You can apply corrections row by row, or enter fixes across multiple rows and cl
 
 Occasionally, a valid term—such as an approved abbreviation or acronym—may be flagged as a misspelling. In these cases, you can use the Add to Dictionary option to add it to your custom user dictionary so it won’t be flagged in future scans.
 
+Another feature of this tool is case conversion. You can easily select the target text across your project and change its capitalization by clicking UPPERCASE, lowercase, Sentence case, or Capitalized Case.
 
 
 
