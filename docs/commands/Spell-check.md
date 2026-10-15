@@ -12,7 +12,7 @@ In the opened dialog, you can define the scope of your search within the project
 
 Under Select Languages, choose the languages used in your project. If a language present in the project is not selected, you may encounter unnecessary error warnings.
 
-<img src="https://pars-bim.github.io/docs/Assets/Spell-check.png" alt="Spell-check" width="700">
+<img src="https://pars-bim.github.io/docs/Assets/Spell-check.png" alt="Spell-check" width="800">
 
 After setting the search scope and selecting the required language dictionaries, click the Start Scan button. Depending on the volume of text in your project, the scan process may take some time.
 
