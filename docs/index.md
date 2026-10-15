@@ -4,7 +4,7 @@ title: Revit Plugin Help
 
 # Revit Plugin — Help
 
-> Version: 1.5.0 · Last updated: 2026-10-02
+> Version: 1.6.0 · Last updated: 2026-10-15
 
 Welcome! This is the central help for the PARS-BIM plugins.
 
@@ -64,6 +64,7 @@ MEP Tools (Exclusive):
   - [Re-Number sheets](commands/Re-number-sheets.md)
   - [Create list from file](commands/Create-list-from-file.md)
   - [Sheets management](commands/sheets-management.md)
+  - [Spell check](commands/Spell-check.md)
   
  - **Family Placement**
    - [Workplane based](commands/Family-placement-Workplane.md)
